@@ -38,8 +38,8 @@ def alan_kay_is_known_for
           :known_for => "Unix",
           :languages => ["C"]
         }
-					programmer_hash[1]
      }
+		 programmer_hash[1]
 end
 
 
