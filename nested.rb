@@ -131,8 +131,6 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
-				#return programmer_hash[:grace_hopper]
      }
+		 programmer_hash[:dennis_ritchie][:languages][1] = "Assembly"
 end
-
-#return programmer_hash[:grace_hopper]
